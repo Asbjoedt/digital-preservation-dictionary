@@ -41,7 +41,7 @@
     * [3.25. - Z](/Dictionary.md#325---z)
 * [4. Postface](/Dictionary.md#4-postface)
     * [4.1. Contributors](/Dictionary.md#41-contributors)
-    * [4.2. Acknowledgments](/Dictionary.md#42-acknowledgments)
+    * [4.2. Acknowledgments](/Dictionary.md#42-acknowledgements)
 
 ## How to contribute
 
