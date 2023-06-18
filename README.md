@@ -1,10 +1,10 @@
 <img src="https://openpreservation.org/wp-content/uploads/2019/11/opf-site-logo.png" width="300" alt="Open Preservation Foundation logo">
 
-# OPF Digital Preservation Dictionary
-
-**Important:** The dictionary is community driven. This means any definitions in the dictionary have been contributed by a member of the international digital preservation community
+# Digital Preservation Dictionary
 
 **TLDR:** This dictionary defines terms used in the field of digital preservation. The dictionary is released and maintained by [Open Preservation Foundation](https://openpreservation.org/).
+
+**Important:** The dictionary is community driven. This means any words and definitions in the dictionary have been contributed by a member of the international digital preservation community.
 
 ## Table of Contents
 * [1. Introduction](/Dictionary.md#1-introduction)
