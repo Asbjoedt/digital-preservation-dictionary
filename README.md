@@ -45,7 +45,7 @@
 
 ## How to contribute
 
-You may send your contribution as a branched Pull Request.
+You may send your contribution as a branched Pull Request. Each new or revised word and definition must be sent in as separate Pull Requests.
 
 Contributions may have the form of:
 - Adding new words and definitions
