@@ -66,7 +66,7 @@ The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 Int
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition |
+| File format signature | A file format signature is a unique combination of bits, which identifies a specific file format. The signature, also called a "magic number", authoritatively identifies a file's format. |
 
 ### 3.7. G
 
