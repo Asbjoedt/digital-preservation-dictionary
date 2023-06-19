@@ -66,7 +66,7 @@ The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 Int
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition |
+| File format extension | A file format extension is an identifier set at the end of the filename and delimited by a dot/period e.g. ".ods" or ".xlsx". The identifier helps the operating system to associate an application for opening the file. The file format extension is not authoritative, since the extension may be misleading if the file's format and the file's extension does not match. Instead a file format signature should be used. |
 
 ### 3.7. G
 
