@@ -48,7 +48,7 @@ The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 Int
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition |
+| Conformance | Conformance is any defined differentiation in a specification. This means the number or definition of requirements of the specification may be stricter at one conformance level over another conformance level. |
 
 ### 3.4. D
 
