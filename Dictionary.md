@@ -36,151 +36,155 @@ The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 Int
 
 | Word | Definition |
 | ------------- | ------------- |
+<<<<<<< HEAD
 | Artefact | An artefact is a data object in a spreadsheet which may be considered insignificant for preservation and future reuse of the spreadsheet, but removing the object may not be considered neither necessary nor worthwhile. Therefore, the data object may remain in the spreadsheet and considered unnecessary for rendering or future migration. |
+=======
+| A word | A definition |
+>>>>>>> main
 
 ### 3.2. B
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.3. C
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.4. D
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.5. E
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.6. F
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.7. G
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.8. H
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.9. I
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.10. J
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.11. K
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.12. L
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.13. M
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.14. N
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.15. O
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.16. P
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.17. Q
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.18. R
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.19. S
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.20. T
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.21. U
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.22. V
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.23. X
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.24. Y
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ### 3.25. Z
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| A word | A definition |
 
 ## 4. Postface
 
