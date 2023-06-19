@@ -36,7 +36,7 @@ The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 Int
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| Artefact | An artefact is a data object in a spreadsheet which may be considered insignificant for preservation and future reuse of the spreadsheet, but removing the object may not be considered neither necessary nor worthwhile. Therefore, the data object may remain in the spreadsheet and considered unnecessary for rendering or future migration.  |
 
 ### 3.2. B
 
