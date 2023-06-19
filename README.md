@@ -13,7 +13,7 @@
     * [2.2. Scope](/Dictionary.md#22-scope)
     * [2.3. Contributions](/Dictionary.md#23-contributions)
     * [2.4. Licence](/Dictionary.md#24-licence)
-* [3 Words](/Dictionary.md#3-words)
+* [3. Words](/Dictionary.md#3-words)
     * [3.1. A](/Dictionary.md#31-a)
     * [3.2. B](/Dictionary.md#32-b)
     * [3.3. C](/Dictionary.md#33-c)
