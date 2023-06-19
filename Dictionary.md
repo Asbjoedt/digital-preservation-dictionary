@@ -66,7 +66,7 @@ The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 Int
 
 | Word | Definition |
 | ------------- | ------------- |
-| A word | A definition  |
+| File format | A file format defines the data structure, scope of content and encoding of bits for any type of file. The file format may be standardised, it may contain other formats and it may be binary or text-based. The purpose of file format validation is two-fold: Checking if the file's purported format is correctly encoded and checking if any data quality rules, which delimits the file format's scope, are violated. |
 
 ### 3.7. G
 
