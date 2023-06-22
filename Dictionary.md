@@ -1,10 +1,8 @@
-<img src="https://openpreservation.org/wp-content/uploads/2019/11/opf-site-logo.png" width="300" alt="Open Preservation Foundation logo">
-
-# OPF Digital Preservation Dictionary
+# Digital Preservation Dictionary
 
 ## 1. Introduction
 
-This is a community-driven dictionary for the field of digital preservation. It is maintained by [Open Preservation Foundation](https://openpreservation.org/).
+This is a community-driven dictionary for the field of digital preservation.
 
 It is possible for any member of the digital preservation community to contribute with words and definitions.
 
@@ -22,13 +20,13 @@ Any word used by a member of the digital preservation community to refer to conc
 
 ### 2.3. Contributions
 
-All contributions will be reviewed by OPF or a reviewer designated by the OPF, before they may be added to the dictionary.
+All contributions will be reviewed, before they may be added to the dictionary.
 
 If the contributor does not accept the proposed changes by the reviewer, OPF reserve the right to reject the contribution.
 
 ### 2.4. Licence
 
-The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 International Public Licence. You are not free to release any derivatives which uses the Open Preservation Foundation name or branding. The rights to the Open Preservation Foundation name and branding belongs to the Open Preservation Foundation.
+The dictionary is released under Creative Commons Attribution-ShareAlike 4.0 International Public Licence.
 
 ## 3. Words
 
